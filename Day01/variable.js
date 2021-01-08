@@ -1,5 +1,8 @@
-var name = "shittu";
-var age = 13;
-var handSome = true;
-var jinx = ;
-var x;
+// Exercise 4
+/*
+let name = "shittu";
+let age = 13;
+let handSome = true;
+let jinx = ;
+let x;
+*/
