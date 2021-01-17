@@ -1,3 +1,4 @@
+//Level 1
 // 1.
 let challenge = '30 Days of Javascript';
 
@@ -63,3 +64,28 @@ console.log(search.search('because'));
 let trim = ' 30 Days Of JavaScript '
 console.log(trim.trim());
 
+// 21. 
+console.log(challenge.startsWith('30'));
+
+// 22.
+console.log(challenge.endsWith('Javascript'));
+
+// 23.
+console.log(challenge.match('a'));
+
+// 24.
+let begin = '30 Days of';
+console.log(begin.concat(" ", "Javascript"));
+
+// 25.
+console.log(begin.concat(" ", "Javascript" ," ").repeat(2));
+
+//Level 2
+// 1.
+console.log(`The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another.`);
+
+// 2.
+console.log(`"Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead."`);
+
+// 3. 
+console.log(typeof 10);
