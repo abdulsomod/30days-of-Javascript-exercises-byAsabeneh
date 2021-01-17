@@ -89,3 +89,10 @@ console.log(`"Love is not patronizing and charity isn't about pity, it is about 
 
 // 3. 
 console.log(typeof 10);
+
+// 4.
+
+
+
+let jargon = 'I hope this course is not full of jargon'
+console.log(jargon.match(jargon));
